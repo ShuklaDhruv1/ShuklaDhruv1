@@ -26,3 +26,14 @@
 ║  MISSION     : TURN IDEAS INTO PROJECTS      ║
 ║  MODE        : BUILDING...                   ║
 ╚══════════════════════════════════════════════╝
+---
+
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<a href="https://www.instagram.com/shukladhruv1/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FOLLOW%20ME-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
