@@ -1,16 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=180&section=header&text=DHRUV%20SHUKLA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20GAMER%20%7C%20CREATOR&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a0000,100:000000&height=220&section=header&text=DHRUV%20SHUKLA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=⚡%20CODE%20%7C%20CREATE%20%7C%20CONQUER%20⚡&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world+%F0%9F%91%BE;Code.+Create.+Conquer.+%E2%9A%A1;Building+ideas+into+reality+%F0%9F%9A%80;Game+On.+Code+On.+%F0%9F%8E%AE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&lines=%3E%3E%3E+INITIALIZING+DHRUV.EXE...;%3E%3E%3E+WELCOME+TO+THE+DIGITAL+WORLD;%3E%3E%3E+DEVELOPER+%7C+GAMER+%7C+BUILDER;%3E%3E%3E+CODE.+CREATE.+CONQUER.;%3E%3E%3E+SYSTEM+STATUS%3A+ONLINE+%F0%9F%9F%A2" />
 
 <br><br>
 
-`⚡ DEVELOPER` &nbsp; `🎮 GAMER` &nbsp; `🚀 BUILDER`
+<img src="https://komarev.com/ghpvc/?username=ShuklaDhruv1&label=PROFILE+VIEWS&color=red&style=for-the-badge" />
+
+<br><br>
 
 </div>
+
+---
+
+## ⚔️ PLAYER PROFILE
+
+```text
+╔══════════════════════════════════════════════╗
+║              D H R U V   S H U K L A         ║
+╠══════════════════════════════════════════════╣
+║  CLASS       : DEVELOPER                     ║
+║  ROLE        : BUILDER / EXPLORER            ║
+║  STATUS      : 🟢 ONLINE                     ║
+║  MISSION     : TURN IDEAS INTO PROJECTS      ║
+║  MODE        : BUILDING...                   ║
+╚══════════════════════════════════════════════╝
+
+[████████████████░░░░] 80%
+
+MISSION:
+→ Learn
+→ Build
+→ Experiment
+→ Improve
+→ Repeat
+
+┌──────────────────────────────────────┐
+│  ⚡ THINK        →        BUILD      │
+│  🎯 BUILD        →        TEST       │
+│  🔥 TEST         →        IMPROVE    │
+│  🚀 IMPROVE      →        REPEAT     │
+└──────────────────────────────────────┘
+
+
 
 <!--
 **ShuklaDhruv1/ShuklaDhruv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
