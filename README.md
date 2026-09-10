@@ -30,3 +30,19 @@
 ║  MISSION     : TURN IDEAS INTO PROJECTS      ║
 ║  MODE        : BUILDING...                   ║
 ╚══════════════════════════════════════════════╝
+
+[████████████████░░░░] 80%
+
+MISSION:
+→ Learn
+→ Build
+→ Experiment
+→ Improve
+→ Repeat
+
+┌──────────────────────────────────────┐
+│  ⚡ THINK        →        BUILD      │
+│  🎯 BUILD        →        TEST       │
+│  🔥 TEST         →        IMPROVE    │
+│  🚀 IMPROVE      →        REPEAT     │
+└──────────────────────────────────────┘
