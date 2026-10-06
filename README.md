@@ -1,22 +1,19 @@
 <div align="center">
 
-<!-- ⚡ CYBER GAMER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:050000,30:1a0000,60:7a0000,100:050000&text=DHRUV%20SHUKLA&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=ff1a1a&strokeWidth=1&desc=%E2%9A%A1%20CODE%20%7C%20CREATE%20%7C%20CONQUER%20%E2%9A%A1&descAlignY=62&descSize=18&descColor=ff3b3b" width="100%"/>
 
 <br>
 
-<!-- 🎮 BOOT TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=1600&pause=350&color=FF2D2D&center=true&vCenter=true&width=950&lines=%5B+SYSTEM+BOOT+%5D+INITIALIZING+DHRUV.EXE...;%5B+SYSTEM+%5D+LOADING+PLAYER+PROFILE...;%5B+ACCESS+%5D+WELCOME+TO+DHRUV'S+DIGITAL+WORLD;%5B+MODE+%5D+BUILD+%7C+SHIP+%7C+REPEAT;%5B+STATUS+%5D+ONLINE+%7C+READY+TO+BUILD;%5B+MISSION+%5D+CODE.+CREATE.+CONQUER." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=1600&pause=350&color=FF2D2D&center=true&vCenter=true&width=950&lines=%5B+SYSTEM+BOOT+%5D+INITIALIZING+DHRUV.EXE...;%5B+SYSTEM+%5D+LOADING+PLAYER+PROFILE...;%5B+ACCESS+%5D+WELCOME+TO+DHRUV'S+DIGITAL+WORLD;%5B+MODE+%5D+BUILD+%7C+SHIP+%7C+REPEAT;%5B+STATUS+%5D+ONLINE+%7C+READY+TO+BUILD;%5B+MISSION+%5D+CODE.+CREATE.+CONQUER."/>
 
 <br>
 
-<!-- 👀 VIEWS + BADGES -->
 <img src="https://komarev.com/ghpvc/?username=ShuklaDhruv1&label=PROFILE%20VIEWS&color=ff0000&style=for-the-badge"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff0000?style=for-the-badge&labelColor=0b0b0b"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-ffffff?style=for-the-badge&labelColor=0b0b0b&color=ff2d2d"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-ff2d2d?style=for-the-badge&labelColor=0b0b0b"/>
 <img src="https://img.shields.io/badge/LEVEL-DEVELOPER-ff2d2d?style=for-the-badge&labelColor=0b0b0b"/>
 <img src="https://img.shields.io/badge/FOCUS-PROJECTS-ff0000?style=for-the-badge&labelColor=0b0b0b"/>
 
@@ -26,34 +23,44 @@
 
 <div align="center">
 
-# ⚔️ PLAYER PROFILE
+## ⚔️ PLAYER PROFILE
 
 </div>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                        D H R U V   S H U K L A               ║
+║                    D H R U V   S H U K L A                   ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🎮 CLASS       : DEVELOPER                                   ║
-║  ⚡ ROLE        : BUILDER / EXPLORER                           ║
-║  🔥 STATUS      : ONLINE                                      ║
-║  🧠 MINDSET     : LEARN • BUILD • IMPROVE                      ║
-║  🎯 MISSION     : TURN IDEAS INTO REAL PROJECTS                ║
-║  ☠️ MODE        : NO QUIT                                      ║
+║  🎮 CLASS       : DEVELOPER                                  ║
+║  ⚡ ROLE        : BUILDER / EXPLORER                          ║
+║  🔥 STATUS      : ONLINE                                     ║
+║  🧠 MINDSET     : LEARN • BUILD • IMPROVE                    ║
+║  🎯 MISSION     : TURN IDEAS INTO REAL PROJECTS              ║
+║  ☠️ MODE        : NO QUIT                                    ║
 ╚══════════════════════════════════════════════════════════════╝
-<div align="center">
-🩸 PLAYER XP
-</div>
-text
+```
 
+<div align="center">
+
+## 🩸 PLAYER XP
+
+```text
 ██████████████████████████████░░░░░░░░░░░░  75%
 
 ⚡ XP GAINING...
 ⚔️ LEVEL UP IN PROGRESS...
 🔥 NEVER STOP BUILDING
-<div align="center">
-🎮 PLAYER MISSION
+```
+
 </div>
+
+---
+
+<div align="center">
+
+## 🎮 PLAYER MISSION
+
+```text
 ╔══════════════════════════════════════════════════════╗
 ║                  MISSION PROTOCOL                    ║
 ╠══════════════════════════════════════════════════════╣
@@ -63,11 +70,23 @@ text
 ║  [04] 🔥 IMPROVE     →  Fix • Upgrade • Repeat      ║
 ║  [05] 🚀 DEPLOY      →  Release The Project          ║
 ║                                                      ║
-║               STATUS: MISSION ACTIVE 🟢              ║
+║              STATUS: MISSION ACTIVE 🟢               ║
 ╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 <div align="center">
-⚡ CURRENT LOADOUT
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,mongodb,mysql,git,github,vscode&theme=dark" /></div>
+
+## ⚡ CURRENT LOADOUT
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,mongodb,mysql,git,github,vscode&theme=dark"/>
+
+</div>
+
+```text
 ┌────────────────────────────────────────────────────┐
 │  ⚔️ PRIMARY WEAPON     → Java                      │
 │  🧪 EXPERIMENT LAB     → Python                    │
@@ -77,11 +96,17 @@ text
 │  🛠️ VERSION CONTROL    → Git / GitHub              │
 │  💻 BATTLE STATION     → VS Code                   │
 └────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
-☠️ BOSS FIGHT STATUS
-</div>
+
+## ☠️ BOSS FIGHT STATUS
+
+```text
 ╔══════════════════════════════════════════════════════╗
-║                    CURRENT BATTLE                   ║
+║                    CURRENT BATTLE                    ║
 ╠══════════════════════════════════════════════════════╣
 ║  🧩 PROBLEM SOLVING      ████████████████░░  80%     ║
 ║  💻 CODING               ██████████████░░░░  70%     ║
@@ -93,21 +118,73 @@ text
 ║              🔥 STATUS: UNDER ATTACK                 ║
 ║              ☠️ PLAYER: STILL STANDING              ║
 ╚══════════════════════════════════════════════════════╝
-<div align="center">
-📡 GITHUB TELEMETRY
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShuklaDhruv1&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0b0b&text_color=e6e6e6&icon_color=ff2d2d&ring_color=ff2d2d" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDhruv1&layout=compact&hide_border=true&bg_color=0b0b0b&text_color=e6e6e6&title_color=ff2d2d" /><br/><img height="180" src="https://streak-stats.demolab.com?user=ShuklaDhruv1&hide_border=true&background=0b0b0b&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&sideLabels=e6e6e6&dates=9a9a9a" /></div><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&bg_color=0b0b0b&color=e6e6e6&line=ff2d2d&point=ffffff&area=true&hide_border=true" width="100%"/></div>
-<div align="center">
-🏆 ACHIEVEMENTS
-<img src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/></div>
-<div align="center">
-🐍 ANIMATED CONTRIBUTIONS (SNAKE)
-<!-- Workflow run hone ke baad ye render hoga --><img src="https://raw.githubusercontent.com/ShuklaDhruv1/ShuklaDhruv1/output/snake.svg" width="100%" alt="snake animation"/></div>
-<div align="center">
-🌌 3D CONTRIBUTION GRAPH (ULTRA)
-<!-- Workflow run hone ke baad ye render hoga --><img src="https://raw.githubusercontent.com/ShuklaDhruv1/ShuklaDhruv1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution graph"/></div>
-<div align="center">
-🕹️ GAME RULES
+```
+
 </div>
+
+---
+
+<div align="center">
+
+## 📡 GITHUB TELEMETRY
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShuklaDhruv1&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0b0b&text_color=e6e6e6&icon_color=ff2d2d&ring_color=ff2d2d"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDhruv1&layout=compact&hide_border=true&bg_color=0b0b0b&text_color=e6e6e6&title_color=ff2d2d"/>
+
+<br>
+
+<img height="180" src="https://streak-stats.demolab.com?user=ShuklaDhruv1&hide_border=true&background=0b0b0b&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&sideLabels=e6e6e6&dates=9a9a9a"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 ACTIVITY GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&bg_color=0b0b0b&color=e6e6e6&line=ff2d2d&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 ANIMATED CONTRIBUTIONS
+
+<img src="https://raw.githubusercontent.com/ShuklaDhruv1/ShuklaDhruv1/output/snake.svg" width="100%" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 3D CONTRIBUTION GRAPH
+
+<img src="https://raw.githubusercontent.com/ShuklaDhruv1/ShuklaDhruv1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🕹️ GAME RULES
+
+```text
 ╔══════════════════════════════════════════╗
 ║  ▶ DON'T JUST LEARN IT                   ║
 ║  ▶ BUILD IT                              ║
@@ -118,6 +195,20 @@ text
 ║  ▶ DON'T WAIT FOR PERFECT                ║
 ║  ▶ START NOW                             ║
 ║                                          ║
-║              GAME ON. 🎮                  ║
+║              GAME ON. 🎮                 ║
 ╚══════════════════════════════════════════╝
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2100&pause=600&color=FF2D2D&center=true&vCenter=true&width=850&lines=%3E+ENTERING+NEXT+LEVEL...;%3E+NEW+PROJECT+DETECTED...;%3E+HUNTING+BUGS...;%3E+KEEP+BUILDING.+KEEP+EVOLVING." /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,50:7a0000,100:050000&height=140&section=footer&animation=twinkling" width="100%"/></div> ```
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2100&pause=600&color=FF2D2D&center=true&vCenter=true&width=850&lines=%3E+ENTERING+NEXT+LEVEL...;%3E+NEW+PROJECT+DETECTED...;%3E+HUNTING+BUGS...;%3E+KEEP+BUILDING.+KEEP+EVOLVING."/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,50:7a0000,100:050000&height=140&section=footer&animation=twinkling" width="100%"/>
+
+</div>
