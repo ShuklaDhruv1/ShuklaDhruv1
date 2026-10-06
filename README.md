@@ -180,7 +180,11 @@
 
 ## 📈 ACTIVITY GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&bg_color=0b0b0b&color=e6e6e6&line=ff2d2d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&theme=github-compact"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -190,13 +194,13 @@
 
 ## 🏆 ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub Profile Trophies"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"
+  width="100%"
+  alt="GitHub Profile Trophy"
+/>
 
 </div>
-
----
-
-<div align="center">
 
 ## 🐍 ANIMATED CONTRIBUTIONS
 
