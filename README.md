@@ -170,7 +170,7 @@
 
 <br><br>
 
-<img height="180" src="https://streak-stats.demolab.com?user=ShuklaDhruv1&hide_border=true&background=0b0b0b&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&sideLabels=e6e6e6&dates=9a9a9a"/>
+<img height="180" src="https://streak-stats.demolab.com?user=ShuklaDhruv1&hide_border=true&background=0b0b0b&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff"/>
 
 </div>
 
