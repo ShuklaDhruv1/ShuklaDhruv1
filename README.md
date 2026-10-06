@@ -25,7 +25,9 @@
 
 ## ⚔️ PLAYER PROFILE
 
-</div>
+<table align="center">
+<tr>
+<td>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -39,6 +41,14 @@
 ║  ☠️ MODE        : NO QUIT                                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -60,6 +70,10 @@
 
 ## 🎮 PLAYER MISSION
 
+<table align="center">
+<tr>
+<td>
+
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                  MISSION PROTOCOL                    ║
@@ -74,6 +88,10 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -84,7 +102,11 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,mongodb,mysql,git,github,vscode&theme=dark"/>
 
-</div>
+<br><br>
+
+<table align="center">
+<tr>
+<td>
 
 ```text
 ┌────────────────────────────────────────────────────┐
@@ -98,11 +120,21 @@
 └────────────────────────────────────────────────────┘
 ```
 
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 <div align="center">
 
 ## ☠️ BOSS FIGHT STATUS
+
+<table align="center">
+<tr>
+<td>
 
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -120,6 +152,10 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -132,7 +168,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDhruv1&layout=compact&hide_border=true&bg_color=0b0b0b&text_color=e6e6e6&title_color=ff2d2d"/>
 
-<br>
+<br><br>
 
 <img height="180" src="https://streak-stats.demolab.com?user=ShuklaDhruv1&hide_border=true&background=0b0b0b&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&sideLabels=e6e6e6&dates=9a9a9a"/>
 
@@ -144,7 +180,7 @@
 
 ## 📈 ACTIVITY GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&bg_color=0b0b0b&color=e6e6e6&line=ff2d2d&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&bg_color=0b0b0b&color=e6e6e6&line=ff2d2d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -154,7 +190,7 @@
 
 ## 🏆 ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub Profile Trophies"/>
 
 </div>
 
@@ -184,6 +220,10 @@
 
 ## 🕹️ GAME RULES
 
+<table align="center">
+<tr>
+<td>
+
 ```text
 ╔══════════════════════════════════════════╗
 ║  ▶ DON'T JUST LEARN IT                   ║
@@ -198,6 +238,10 @@
 ║              GAME ON. 🎮                 ║
 ╚══════════════════════════════════════════╝
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
