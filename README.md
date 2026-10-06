@@ -176,32 +176,6 @@
 
 ---
 
-<div align="center">
-
-## 📈 ACTIVITY GRAPH
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ShuklaDhruv1&theme=github-compact"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENTS
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ShuklaDhruv1&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"
-  width="100%"
-  alt="GitHub Profile Trophy"
-/>
-
-</div>
-
 ## 🐍 ANIMATED CONTRIBUTIONS
 
 <img src="https://raw.githubusercontent.com/ShuklaDhruv1/ShuklaDhruv1/output/snake.svg" width="100%" alt="Snake animation"/>
